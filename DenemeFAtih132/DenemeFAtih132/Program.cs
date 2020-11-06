@@ -6,7 +6,9 @@ namespace DenemeFAtih132
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Helloooooooo");
+            Console.WriteLine("Helloooooooo Ahmet");
+
+            Console.WriteLine("Helloooooooo Fatih");
         }
     }
 }
