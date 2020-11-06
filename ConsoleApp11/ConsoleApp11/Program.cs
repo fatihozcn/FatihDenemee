@@ -7,6 +7,7 @@ namespace ConsoleApp11
         static void Main(string[] args)
         {
             Console.WriteLine("Hello 313123 Ahmet!");
+            Console.WriteLine("Hello Gazi!");
         }
     }
 }
