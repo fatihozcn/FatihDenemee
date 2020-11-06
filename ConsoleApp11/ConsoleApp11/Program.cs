@@ -8,6 +8,7 @@ namespace ConsoleApp11
         {
             Console.WriteLine("Hello 313123 Ahmet!");
             Console.WriteLine("Hello Gazi!");
+            Console.WriteLine("Ankara");
         }
     }
 }
